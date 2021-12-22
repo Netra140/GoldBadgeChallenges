@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{8DD6F3D5-31C5-4CA9-B866-1A04B5795A7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimRepository", "ClaimRepository\ClaimRepository.csproj", "{370EB878-ADC6-49C6-A230-5917F838B624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaimRepository", "ClaimRepository\ClaimRepository.csproj", "{370EB878-ADC6-49C6-A230-5917F838B624}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimTest", "ClaimTest\ClaimTest.csproj", "{873A33E9-6C50-428B-85A8-554B0DF6EEDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingsRepository", "GreetingsRepository\GreetingsRepository.csproj", "{6F12F219-9F46-4FDF-9B6A-22A441A21CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingsRepository", "GreetingsRepository\GreetingsRepository.csproj", "{6F12F219-9F46-4FDF-9B6A-22A441A21CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingTest", "GreetingTest\GreetingTest.csproj", "{AE89668C-D9C3-409D-BABE-4D1B4B5DDE46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6F12F219-9F46-4FDF-9B6A-22A441A21CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F12F219-9F46-4FDF-9B6A-22A441A21CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F12F219-9F46-4FDF-9B6A-22A441A21CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE89668C-D9C3-409D-BABE-4D1B4B5DDE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE89668C-D9C3-409D-BABE-4D1B4B5DDE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE89668C-D9C3-409D-BABE-4D1B4B5DDE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE89668C-D9C3-409D-BABE-4D1B4B5DDE46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

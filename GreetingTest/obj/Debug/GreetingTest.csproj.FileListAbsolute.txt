@@ -1,0 +1,16 @@
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\obj\Debug\GreetingTest.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\obj\Debug\GreetingTest.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\GreetingTest.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\GreetingTest.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\GreetingsRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\GreetingsRepository.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\obj\Debug\GreetingTest.csproj.CopyComplete
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\obj\Debug\GreetingTest.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingTest\obj\Debug\GreetingTest.pdb
