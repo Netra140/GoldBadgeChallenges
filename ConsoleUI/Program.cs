@@ -15,6 +15,8 @@ namespace ConsoleUI
             ClaimUI cui = new ClaimUI(claimRepo);
             GreetingRepo GreetingRepo = new GreetingRepo();
             GreetingUI gui = new GreetingUI(GreetingRepo);
+            MenuRepo MenuRepo = new MenuRepo();
+            CafeUI cafui = new CafeUI(MenuRepo);
             Console.WriteLine("Pick an editor by typing 'Claim', 'Greeting', or 'Cafe'");
             string challenge = Console.ReadLine();
             if (challenge == "Claim" || challenge == "claim") {
@@ -22,6 +24,8 @@ namespace ConsoleUI
             } else if (challenge == "Greeting" || challenge == "greeting")
             {
                 gui.Commands();
+            } else if (challenge == "Cafe" || challenge == "cafe") {
+                cafui.Commands();        
             }
         }
     }
