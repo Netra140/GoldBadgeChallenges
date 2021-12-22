@@ -8,3 +8,5 @@ C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\Conso
 C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\GreetingsRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\GreetingsRepository.pdb

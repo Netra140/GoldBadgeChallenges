@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClaimUI.cs" />
+    <Compile Include="GreetingUI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,6 +55,10 @@
     <ProjectReference Include="..\ClaimRepository\ClaimRepository.csproj">
       <Project>{370eb878-adc6-49c6-a230-5917f838b624}</Project>
       <Name>ClaimRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GreetingsRepository\GreetingsRepository.csproj">
+      <Project>{6f12f219-9f46-4fdf-9b6a-22a441a21caa}</Project>
+      <Name>GreetingsRepository</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -12,8 +12,17 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             ClaimRepo claimRepo = new ClaimRepo();
-            ClaimUI ui = new ClaimUI(claimRepo);
-            ui.Commands();
+            ClaimUI cui = new ClaimUI(claimRepo);
+            GreetingRepo GreetingRepo = new GreetingRepo();
+            GreetingUI gui = new GreetingUI(GreetingRepo);
+            Console.WriteLine("Pick an editor by typing 'Claim', 'Greeting', or 'Cafe'");
+            string challenge = Console.ReadLine();
+            if (challenge == "Claim" || challenge == "claim") {
+                cui.Commands();
+            } else if (challenge == "Greeting" || challenge == "greeting")
+            {
+                gui.Commands();
+            }
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\bin\Debug\netstandard2.0\GreetingsRepository.deps.json
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\bin\Debug\netstandard2.0\GreetingsRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\bin\Debug\netstandard2.0\GreetingsRepository.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\obj\Debug\netstandard2.0\GreetingsRepository.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\obj\Debug\netstandard2.0\GreetingsRepository.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\obj\Debug\netstandard2.0\GreetingsRepository.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\obj\Debug\netstandard2.0\GreetingsRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\obj\Debug\netstandard2.0\GreetingsRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\GreetingsRepository\obj\Debug\netstandard2.0\GreetingsRepository.pdb
