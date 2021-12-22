@@ -1,0 +1,10 @@
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\ClaimRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\bin\Debug\ClaimRepository.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ConsoleUI\obj\Debug\ConsoleUI.pdb

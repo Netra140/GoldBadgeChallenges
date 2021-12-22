@@ -1,0 +1,9 @@
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\bin\Debug\netstandard2.0\ClaimRepository.deps.json
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\bin\Debug\netstandard2.0\ClaimRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\bin\Debug\netstandard2.0\ClaimRepository.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\obj\Debug\netstandard2.0\ClaimRepository.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\obj\Debug\netstandard2.0\ClaimRepository.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\obj\Debug\netstandard2.0\ClaimRepository.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\obj\Debug\netstandard2.0\ClaimRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\obj\Debug\netstandard2.0\ClaimRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\ClaimRepository\obj\Debug\netstandard2.0\ClaimRepository.pdb
