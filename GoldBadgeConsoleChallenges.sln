@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimRepository", "ClaimRepository\ClaimRepository.csproj", "{370EB878-ADC6-49C6-A230-5917F838B624}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimTest", "ClaimTest\ClaimTest.csproj", "{873A33E9-6C50-428B-85A8-554B0DF6EEDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{370EB878-ADC6-49C6-A230-5917F838B624}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370EB878-ADC6-49C6-A230-5917F838B624}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370EB878-ADC6-49C6-A230-5917F838B624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873A33E9-6C50-428B-85A8-554B0DF6EEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873A33E9-6C50-428B-85A8-554B0DF6EEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873A33E9-6C50-428B-85A8-554B0DF6EEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873A33E9-6C50-428B-85A8-554B0DF6EEDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
