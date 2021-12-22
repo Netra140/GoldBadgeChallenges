@@ -46,12 +46,17 @@
     <Compile Include="ClaimUI.cs" />
     <Compile Include="GreetingUI.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="CafeUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CafeRepository\CafeRepository.csproj">
+      <Project>{efe825f4-4925-40ed-8f8d-ef4861f489f8}</Project>
+      <Name>CafeRepository</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ClaimRepository\ClaimRepository.csproj">
       <Project>{370eb878-adc6-49c6-a230-5917f838b624}</Project>
       <Name>ClaimRepository</Name>

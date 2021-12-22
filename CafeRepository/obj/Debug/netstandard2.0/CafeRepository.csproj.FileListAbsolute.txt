@@ -1,0 +1,8 @@
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\bin\Debug\netstandard2.0\CafeRepository.deps.json
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\bin\Debug\netstandard2.0\CafeRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\bin\Debug\netstandard2.0\CafeRepository.pdb
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\obj\Debug\netstandard2.0\CafeRepository.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\obj\Debug\netstandard2.0\CafeRepository.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\obj\Debug\netstandard2.0\CafeRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\obj\Debug\netstandard2.0\CafeRepository.dll
+C:\Users\Ethan\source\repos\GoldBadgeConsoleChallenges\CafeRepository\obj\Debug\netstandard2.0\CafeRepository.pdb
